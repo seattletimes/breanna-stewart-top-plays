@@ -1,0 +1,20 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "sports-slider"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2018/sports/storm/breanna-stewart-wnba-mvp-top-moments"
+    }
+  },
+  "title": "The top 5 moments of Breanna Stewart's MVP 2018 season",
+  "description": "Breanna Stewart led the Storm to the best record in the WNBA and averaged 21.8 points per game in her MVP campaign.",
+  "url": "https://projects.seattletimes.com/2018/sports/breanna-stewart-wnba-mvp-top-moments/",
+  "slug": "breanna-stewart-wnba-mvp-top-moments",
+  "tags": ["interactive", "parallax"],
+  "image": "assets/stewart5.jpg",
+  "production": false,
+  "sheets": ["1QKIUIVX9Tl_lwi_u1YG0aZCPiTu0giTZ0SJtA-mCoY4"]
+}
